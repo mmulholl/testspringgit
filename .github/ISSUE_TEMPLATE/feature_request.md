@@ -1,17 +1,18 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an ehancemnt for Microclimate
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+We are constantly enhancing our product, please ensure you are running the latest Microclimate version before opening a feature request. Details can be found here: https://microclimate-dev2ops.github.io/ 
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Please be clear and concise, and provide examples and screenshots where appropriate.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**What version of Microclimate are you using?**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Are you running Microclimate locally or on IBM Cloud private?**
+
+**Describe the enhancement:**
+
+**How important is this enhancement to you:**
+Essential,important,nice to have,just a suggestion?
