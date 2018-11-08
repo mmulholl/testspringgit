@@ -6,13 +6,13 @@ about: Create a report to help us improve
 
 **Please provide information relevant to the bug**
 
-Microclimate Version : 
+What version of Microclimate are you running? : 
 
-Local/IBM Cloud Private : 
+Are you running Microclimate Locally or on IBM Cloud Private? : 
 
-Operating System and Version : 
+What Operating System and version are you to run Microclimate? : 
 
-Browser and Version :
+What browser and version are you suing to access the Microclimate UI? :
 
 Description of the issue :
 
